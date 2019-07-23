@@ -1,0 +1,578 @@
+/*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Responsive CSS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%*/
+@media only screen and (min-width: 1400px) and (max-width: 1920px) {
+
+}
+/*@media only screen and (min-width: 768px) and (max-width: 800px) {
+
+}*/
+@media only screen and  (min-width: 992px) {
+/*
+.top-header-left i {
+margin-right: 0 !important;
+}*/
+/*	.main-slider-content {
+left: 130px !important;
+}
+*/
+.training-video .load {
+width: 45px;
+height: 45px;
+position: absolute;
+left: 50%;
+}
+.price-table .price-head h4 {
+font-size: 18px;
+}
+.training-left h2 {
+font-size: 30px !important;
+line-height: 45px;
+}
+.price-table .price-head h2 {
+font-size: 32px;
+}
+.single-contact-info p {
+font-size: 16px;
+}
+}
+@media only screen and (min-width: 768px) and (max-width: 991.99px){
+p.lead {
+line-height: 30px;
+font-size: 15px;
+}
+.navsection.sticky a.nav-link {
+line-height: 40px !important;
+}
+
+.navbar-toggler {
+background-color: #fff;
+}
+.navbar-nav.ml-auto {
+text-align: center;
+}
+#navbarSupportedContent {
+background: rgba(0,0,0,0.8);
+}
+.top-header-left ul:last-child li {
+padding-left: 0;
+}
+/*===Slider section start here===*/
+.top-header-left ul.list-inline li {
+font-size: 10px;
+}
+.slider-img h1 {
+font-size: 45px !important;
+line-height: 55px !important;
+}
+.slider-content h1 {
+padding-bottom: 0px !important;
+}
+.slider-content h4 {
+font-size: 18px;
+margin-bottom: 20px !important;
+}
+/*===Slider section end here===*/
+/*==about section start here==*/
+.about-border-content h5{
+margin-bottom: 15px;
+}
+.aboutimg {
+margin-bottom: 5px;
+}
+.about-border-content h2 {
+font-size: 21px !important;
+}
+.about-border-content h4 {
+font-size: 16px;
+}
+.counter-item h3 {
+font-size: 7px !important;
+}
+div#Counter-up-bg {
+background: #f5532f;
+margin-top: 25px;
+}
+.no-gutters .mb-4, .my-4 {
+margin-bottom: 11px !important;
+}
+/*==about section end here==*/
+/*===Time table start here====*/
+#pills-tab .nav-link {
+padding: 18px 12px;
+}
+#pills-tab .nav-item:last-child a {
+border-right: 0px solid #252525;
+}
+/*===Time table end here====*/
+/*==Training section start here==*/
+.training-left h2 {
+font-size: 20px !important;
+}
+.training-left p {
+margin-bottom: 0px;
+}
+/*===Training section end here===*/
+/*==offer section start here==*/
+.offer-area-content h1 {
+font-size: 50px !important;
+line-height: 65px !important;
+}
+.offer-area-content h5 {
+font-size: 20px !important;
+}
+.offer-area-content h6 {
+font-size: 14px !important;
+}
+/*==offer section end here==*/
+
+}
+/*@media only screen and (max-width: 800px) {
+strong {
+display: block !important;
+cursor: pointer;
+}
+#hide {
+display: none;
+}
+.hide i {
+padding: 10px;
+background: #f5532f;
+}
+.navbar-toggler {
+background: rgba(255,255,255,0.9);
+}
+}*/
+@media only screen and (max-width: 767.99px) {
+
+.social-icon ul.list-inline li a {
+line-height: 90px;
+padding-left: 5px !important;
+font-size: 15px !important;
+}
+.navbar-toggler {
+background-color: #fff;
+}
+.navbar-nav.ml-auto {
+text-align: center;
+}
+#navbarSupportedContent {
+background: rgba(0,0,0,0.8);
+}
+section.navsection {
+line-height: 45px !important;
+}
+.top-header-left ul.list-inline li {
+display: inline-block;
+padding-left: 8px;
+font-size: 12px;
+}
+.social-icon.text-right {
+margin: 0 auto !important;
+display: table !important;
+}
+.navsection.sticky a.nav-link {
+line-height: 35px !important;
+}
+/*===Slider seciton start here===*/
+.main-slider-content {
+left: 23.5% !important;
+}
+.slider-img h1 {
+font-size: 50px !important;
+line-height: 60px;
+}
+.slider-img h4 {
+font-size: 16px !important;
+line-height: 30px;
+}
+/*===Slider seciton end here===*/
+/*====About seciton start here====*/
+.about-border-content h2 {
+font-size: 28px !important;
+}
+.aboutimg {
+margin-bottom: 25px;
+}
+.about-border-content h5 {
+padding-bottom: 10px;
+}
+.row.no-gutters div {
+padding-left: 0px !important;
+padding-right: 0px !important;
+}
+.counter-item {
+margin-bottom: 50px;
+}
+.counter-item h3 {
+font-size: 12px !important;
+}
+.video-view {
+width: 100%;
+}
+.video-view.about-vlink {
+position: unset !important;
+top: unset !important;
+}
+.about-video .load {
+top: 40% !important;
+left: 50%;
+}
+.about-video {
+margin-top: 40px;
+}
+/*====About seciton end here====*/
+/*======Feature classes start here*/
+figure.figureimg ul {
+display: inline-flex;
+}
+figure.figureimg figcaption {
+padding: 20px 42px !important;
+top: 22% !important;
+}
+/*======Feature classes end here*/
+/*=====Time table seciton start here=====*/
+button.attach {
+height: 52px !important;
+line-height: 25px !important;
+padding: 0px 33px;
+}
+/*=====Time table seciton end here=====*/
+/*===Offer seciton start here====*/
+.offer-area-content {
+margin-bottom: 25px;
+}
+.offer-area-content h5 {
+font-size: 35px;
+line-height: 45px !important;
+}
+/*==Offer seciton end here===*/
+/*==Training video start here==*/
+.brand-text.section-padding {
+margin-top: 40px;
+}
+.card-header button.collapsed::after {
+top: 0px !important;
+}
+.card-header button::after {
+top: 0px !important;
+}
+/*==Training video end here==*/
+/*====Testimonial seciton start here===*/
+.testimonial-heading {
+width: 100% !important;
+}
+/*====Testimonial seciton end here===*/
+/*====Contact section start here=====*/
+.contact-heading {
+width: 100% !important;
+}
+.single-contact-info .less-mb {
+margin-bottom: -6px !important;
+}
+.single-contact-info {
+margin-bottom: 25px;
+}
+/*====Contact section end here=====*/
+/*===Footer section start here===*/
+footer.footer-last p {
+padding-bottom: 15px;
+text-align: center;
+}
+.footer-logo {
+margin-bottom: 35px !important;
+}
+.quick-link {
+margin-bottom: 35px !important;
+}
+/*===Footer section end here===*/
+}
+
+@media only screen and (min-width: 320px) and (max-width: 575.99px){
+
+p.lead {
+font-size: 15px !important;
+}
+/*===Header seciton start here===*/
+.header-section {
+line-height: 35px !important;
+}
+.social-icon ul.list-inline li a {
+line-height: 50px !important;
+}
+.top-header-left ul.list-inline li {
+font-size: 15px !important;
+line-height: 25px;
+}
+.top-header-left {
+display: block;
+}
+.top-header-left .list-inline {
+text-align: center;
+}
+.navbar-toggler {
+background-color: #fff;
+}
+.navsection.sticky a.nav-link {
+line-height: 35px !important;
+}
+.navbar-light .navbar-nav .nav-link {
+line-height: 30px;
+}
+#navbarSupportedContent {
+background: rgba(0,0,0,0.8);
+}
+section.navsection {
+line-height: 45px !important;
+}
+.slider-img h1 {
+font-size: 27px !important;
+position: relative;
+margin-top: 75px;
+line-height: 40px !important;
+margin-bottom: 20px;
+}
+.slider-img h4 {
+line-height: 30px;
+font-size: 20px;
+}
+.btn {
+padding: 8px 18px !important;
+}
+/*===Header seciton End here===*/
+/*===About seciton start here===*/
+.about-border-content h2 {
+text-transform: uppercase;
+font-size: 25px !important;
+line-height: 40px;
+text-align: center;
+}
+.about-border-content h4 {
+font-size: 16px;
+text-align: center;
+}
+.about-section p {
+font-size: 14px;
+}
+.aboutimg {
+margin-bottom: 25px;
+}
+.counter-item {
+margin-bottom: 30px;
+}
+.about-border-content h5 {
+font-size: 16px;
+padding-bottom: 15px;
+}
+.row.no-gutters div {
+padding-left: 0px !important;
+padding-right: 0px !important;
+}
+#about {
+padding-bottom: 0px;
+}
+.video-view {
+width: 100%;
+}
+/*===About seciton End here===*/
+/*===Feature-class seciton Start here===*/
+.feature-heading  h2 {
+font-size: 30px;
+}
+.feature-heading  p {
+font-size: 14px;
+}
+.border-content h2 {
+font-size: 30px;
+}
+.border-content p {
+font-size: 12px !important;
+}
+figure.figureimg h3 {
+font-size: 18px !important;
+}
+figure.snip1256 {
+margin: 0px !important;
+}
+figure.snip1256 figcaption {
+top: 14% !important;
+}
+/*===Feature-class seciton End here===*/
+/*===Time table section start here===*/
+.table td, .table th {
+padding: .7rem;
+}
+#timetable ul#pills-tab {
+background-color: #f5532f;
+padding: 3px;
+}
+#timetable .nav-item a {
+border: 1px solid #000;
+margin-left: 5px;
+margin-top: 8px;
+}
+.time-table-heading h2 {
+font-size: 24px !important;
+}
+.time-table-heading p {
+font-size: 14px !important;
+}
+/*===Time table section end here===*/
+/*===Offer section start here===*/
+.offer-area-content h1{
+padding-bottom: 20px;
+}
+.offer-area-content h5{
+font-size: 25px !important;
+line-height: 35px !important;
+padding-bottom: 20px;
+margin-bottom: 0;
+}
+.offer-area-content h1 {
+font-size: 55px !important;
+line-height: 65px !important;
+padding-bottom: 20px;
+margin-bottom: 0;
+}
+.offer-area-img {
+margin-top: 50px;
+}
+/*===Offer section End here===*/
+/*==Team item section start here===*/
+.team-area .single-item {
+margin: 15px;
+}
+.single-item p {
+margin-bottom: 0;
+}
+.site-heading  p {
+font-size: 14px;
+}
+/*==Team item section end here===*/
+/*===Training section Start here===*/
+.training-section .brand:hover {
+transform: scale(1.05) !important;
+}
+.training-left h2 {
+font-size: 20px !important;
+margin-bottom: 12px;
+}
+.training-left p {
+font-size: 14px;
+}
+.accordion a {
+font-size: 12px;
+}
+.accordion .content p {
+font-size: 12px !important;
+}
+.accordion a {
+font-size: 14px !important;
+}
+.card-header button.collapsed::after {
+top: 0px !important;
+}
+.card-header button::after {
+top: 0px !important;
+}
+.brand-text.section-padding {
+margin-top: 40px;
+}
+.training-section .brand-text p {
+font-size: 14px !important;
+}
+/*===Training section End here===*/
+/*===Pricing section Start here===*/
+.price-table-heading h2 {
+font-size: 28px;
+}
+.price-table-heading p {
+font-size: 14px;
+}
+.price-table {
+margin-top: 35px;
+}
+.price-table .price-head h4{
+font-size: 17px;
+}
+.price-table .price-head h2 {
+font-size: 25px !important;
+}
+.price-content ul li {
+line-height: 15px;
+}
+.price-table:hover {
+transform: scale(1.01) !important;
+}
+/*===Pricing section End here===*/
+/*===Gallery section Start here===*/
+.gallery-heading h2 {
+font-size: 30px;
+line-height: 40px;
+}
+/*===Gallery section End here===*/
+/*===Testimonial section Start here===*/
+.testimonial-heading h2 {
+color: #000;
+font-size: 28px;
+}
+#testimonial-slider button.owl-dot.active {
+background: #f5532f !important;
+}
+#testimonial-slider .owl-dot {
+background: #eee !important;
+}
+/*===Testimonial section End here===*/
+/*===Contact section Start here===*/
+.contact-heading h2 {
+font-size: 28px;
+}
+.contact-heading  {
+font-size: 12px;
+}
+.contact-content {
+padding-bottom: 55px;
+}
+.message-send {
+margin-bottom: 20px !important;
+}
+#contact h4 i {
+padding-right: 10px;
+}
+.single-contact-info {
+margin-bottom: 15px !important;
+}
+.contact-heading {
+width: 100% !important;
+}
+input[type="text"], input[type="email"], input[type="password"] {
+background-color: #fff !important;
+}
+textarea {
+background-color: #fff !important;
+}
+/*===Contact section End here===*/
+/*===Footer section start here===*/
+.footer-section.pt-100.pb-100 {
+padding-bottom: 45px;
+}
+.footer-logo {
+margin-bottom: 30px;
+}
+.footer-logo p {
+font-size: 12px;
+}
+.subscribe {
+margin-top: 25px;
+}
+footer.footer-last p {
+font-size: 15px;
+}
+.copyright p a {
+color: #f5532f;
+}
+.footer-las .social-icon.text-right {
+display: none !important;
+}
+/*===Footer section end here===*/
+}

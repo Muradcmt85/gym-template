@@ -1,0 +1,28 @@
+
+
+
+.primary-color{
+  color: #f5532f
+}
+
+.primary-bg{
+  background-color: #f5532f;
+  color: #fff;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.primary-bg:hover{
+  background-color: #fff;
+  color: #000;
+}
+
+
+.primary-border{
+  border-color: #f5532f
+}
+
+.btn-dark:focus,
+.btn-dark:hover{
+	background-color: #eee;
+	color: #000;
+}
